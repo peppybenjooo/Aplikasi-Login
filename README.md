@@ -6,3 +6,4 @@ alur login
 3. memvalidasi pengguna dengan deteksi wajah
 4. masukkan nama ibu untuk validasi
 5. menampilkan halaman home
+6
